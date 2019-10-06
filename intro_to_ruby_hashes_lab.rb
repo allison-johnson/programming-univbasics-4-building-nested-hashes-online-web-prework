@@ -21,7 +21,12 @@ def monopoly_with_third_tier
         :key_3 => 0,
         :key_4 => 0
       },#end :rent_in_dollars hash
-      :names => 0
+      :names => {
+        :key_1 => 0,
+        :key_2 => 0,
+        :key_3 => 0,
+        :key_4 => 0
+      }#end :names hash
     }#end :railroads hash
   }#end my_hash
 end
