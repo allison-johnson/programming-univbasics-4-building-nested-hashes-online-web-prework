@@ -22,7 +22,7 @@ def monopoly_with_third_tier
         :key_4 => 0
       },#end :rent_in_dollars hash
       :names => {
-        :key_1 => 0,
+        :one_piece_owned => 25,
         :key_2 => 0,
         :key_3 => 0,
         :key_4 => 0
