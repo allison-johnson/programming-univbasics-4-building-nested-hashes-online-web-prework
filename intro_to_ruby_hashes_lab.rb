@@ -49,10 +49,10 @@ def monopoly_with_fourth_tier
           :mortgage_value => "$100"
         },#end pennsylvania
         :b_and_o_railroad => {
-          mortgage_value => "$100"
+          :mortgage_value => "$100"
         },#end b_and_o
         :shortline_railroad => {
-          mortgage_value => "$100"
+          :mortgage_value => "$100"
         }#end shortline
       }#end :names hash
     }#end :railroads hash
