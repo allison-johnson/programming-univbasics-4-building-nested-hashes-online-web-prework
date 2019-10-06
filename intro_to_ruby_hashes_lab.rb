@@ -43,16 +43,16 @@ def monopoly_with_fourth_tier
       },#end :rent_in_dollars hash
       :names => {
         :reading_railroad => {
-          :mortgage_value => "$100"
+          mortgage_value => "$100"
         },#end reading
         :pennsylvania_railroad => {
-          :mortgage_value => "$100"
+          mortgage_value => "$100"
         },#end pennsylvania
         :b_and_o_railroad => {
-          :mortgage_value => "$100"
+          mortgage_value => "$100"
         },#end b_and_o
         :shortline_railroad => {
-          :mortgage_value => "$100"
+          mortgage_value => "$100"
         }#end shortline
       }#end :names hash
     }#end :railroads hash
